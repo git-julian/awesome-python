@@ -1,5 +1,4 @@
 # Contributing
-
 Your contributions are always welcome!
 
 ## Guidelines
@@ -18,3 +17,6 @@ Your contributions are always welcome!
 * Remove any trailing whitespace.
 
 Just a gentle reminder: **Try not to submit your own project. Instead, wait for someone finds it useful and submits it for you.**
+
+
+Bitte sende eine E-Mail an: lieblings_kollege@firma.com
